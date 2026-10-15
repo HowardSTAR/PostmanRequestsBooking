@@ -1,13 +1,6 @@
-# Use this workspace to collaborate
 workspace:
   id: 8fb86f31-9184-4e89-a4b9-58cad009c0b3
-
 localResources:
-  collections:
-    - ../postman/collections/Booking
-
-# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
-
+  collections: []
 cloudResources:
-  collections:
-    ../postman/collections/Booking: 16046975-b05b527b-7c95-4e64-8881-d8cb2157154a
+  collections: {}

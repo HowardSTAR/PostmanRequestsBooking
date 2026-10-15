@@ -1,7 +1,0 @@
-$kind: http-request
-name: Neg_/booking/:id (GET)
-url: https://restful-booker.herokuapp.com/booking/1658
-method: GET
-settings:
-  disabledSystemHeaders: []
-order: 10000

@@ -1,4 +1,0 @@
-$kind: http-request
-url: https://restful-booker.herokuapp.com/ping
-method: GET
-order: 17000

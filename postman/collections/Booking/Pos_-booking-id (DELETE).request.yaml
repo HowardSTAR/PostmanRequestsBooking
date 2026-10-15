@@ -1,8 +1,0 @@
-$kind: http-request
-name: Pos_/booking/:id (DELETE)
-url: https://restful-booker.herokuapp.com/booking/1714
-method: DELETE
-headers:
-  Cookie: token=97d446e1cd327a5
-  Authorization: Basic
-order: 15000

@@ -1,9 +1,0 @@
-$kind: http-request
-name: Pos_/booking/:id (GET)
-url: https://restful-booker.herokuapp.com/booking/1714
-method: GET
-headers:
-  Accept: application/json
-settings:
-  disabledSystemHeaders: []
-order: 9000
