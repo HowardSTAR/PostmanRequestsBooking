@@ -1,0 +1,17 @@
+$kind: http-request
+name: Neg_/booking/:id (PATCH)
+url: https://restful-booker.herokuapp.com/booking/1714
+method: PATCH
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: json
+  content: "{\r
+
+    \    \"firstname\" : \"James\",\r
+
+    \    \"lastname\" : \"Green\"\r
+
+    }"
+order: 14000

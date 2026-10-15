@@ -1,0 +1,15 @@
+$kind: http-request
+url: https://restful-booker.herokuapp.com/auth
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: "{\r
+
+    \    \"username\" : \"admin\",\r
+
+    \    \"password\" : \"password12\"\r
+
+    }"
+order: 2000

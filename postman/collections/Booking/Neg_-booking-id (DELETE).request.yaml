@@ -1,0 +1,5 @@
+$kind: http-request
+name: Neg_/booking/:id (DELETE)
+url: https://restful-booker.herokuapp.com/booking/1714
+method: DELETE
+order: 16000
